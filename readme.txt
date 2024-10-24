@@ -8,3 +8,4 @@ Descrição:
 2. Cálcular e monitar a precificação dos ativos.
 3. Tomar decisões rápidas.
 4. Automatizar tarefas.
+5.
